@@ -1,0 +1,17 @@
+{
+  "comments": "记录体重、睡眠、喝水量（ml）",
+  "year": "2023",
+  "data": {
+    "userName": "Seaton",
+    "sleep": [
+      { "date": "02-06", "value": 6 },
+      { "date": "02-07", "value": 6.5 }
+    ],
+    "drink": [
+      { "date": "02-07", "value": 800 }
+    ],
+    "weight": [
+      { "date": "02-07", "value": 159.2 }
+    ]
+  }
+}
